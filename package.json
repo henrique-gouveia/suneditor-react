@@ -25,13 +25,13 @@
   "peerDependencies": {
     "react": ">= 16.9.0",
     "react-dom": ">= 16.9.0",
-    "suneditor": "^2.42.0"
+    "suneditor": "^2.45.0"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
     "@types/react": "^18.0.14",
     "react": "^18.2.0",
-    "suneditor": "^2.42.0",
+    "suneditor": "github:henrique-gouveia/suneditor#feature/update-version",
     "typescript": "^4.2.4"
   },
   "browserslist": [
